@@ -1,0 +1,30 @@
+
+Deck
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Bonecrusher Giant (ELD) 115
+3 Embercleave (ELD) 120
+14 Mountain (ANB) 114
+4 Burning-Tree Emissary (GTC) 216
+2 Den of the Bugbear (AFR) 254
+3 Ramunap Ruins (AKR) 326
+2 Castle Embereth (ELD) 239
+4 Fanatical Firebrand (RIX) 101
+2 Soul-Scar Mage (AKR) 175
+4 Kumano Faces Kakkazan (NEO) 152
+4 Robber of the Rich (ELD) 138
+2 Torbran, Thane of Red Fell (ELD) 147
+4 Anax, Hardened in the Forge (THB) 125
+2 Play with Fire (MID) 154
+2 Lightning Strike (DMU) 137
+3 Kari Zev, Skyship Raider (KLR) 133
+
+Sideboard
+1 Strangle (SNC) 125
+1 Abrade (VOW) 139
+2 Brotherhood's End (BRO) 128
+1 Lithomantic Barrage (MOM) 152
+2 Fry (M20) 140
+1 Brotherhood's End (BRO) 128
+2 Chandra, Torch of Defiance (KLR) 117
+2 Soul-Guide Lantern (BRR) 54
+3 Rampaging Ferocidon (XLN) 154

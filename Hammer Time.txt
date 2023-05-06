@@ -1,0 +1,36 @@
+Companion
+1 Lurrus of the Dream-Den (IKO) 226
+
+Deck
+4 Ornithopter (BRR) 37
+4 Esper Sentinel (MH2) 12
+4 Kemba's Outfitter (Y23) 2
+1 Rabbit Battery (NEO) 157
+2 Skrelv, Defector Mite (ONE) 33
+4 Kemba, Kha Enduring (ONE) 19
+4 Colossus Hammer (M20) 223
+2 Portable Hole (AFR) 33
+4 Retrofitter Foundry (C18) 57
+2 Shadowspear (THB) 236
+4 Barbed Spike (MH2) 5
+3 Sigarda's Aid (SIR) 43
+1 Fighter Class (AFR) 222
+2 Plains (MIR) 331
+4 Battlefield Forge (BRO) 257
+4 Sacred Foundry (GRN) 254
+3 Inspiring Vantage (KLR) 283
+4 Needleverge Pathway (ZNR) 263
+2 Den of the Bugbear (AFR) 254
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Sokenzan, Crucible of Defiance (NEO) 276
+
+Sideboard
+1 Lurrus of the Dream-Den (IKO) 226
+2 Fighter Class (AFR) 222
+3 Rest in Peace (AKR) 33
+1 Soul-Guide Lantern (BRR) 54
+2 The Stone Brain (BRO) 247
+1 Inchblade Companion (Y22) 2
+1 Basilisk Collar (HBG) 253
+2 Rebel Salvo (ONE) 144
+2 Fragment Reality (Y22) 4

@@ -1,0 +1,41 @@
+Deck
+4 Tarmogoyf (UMA) 187
+3 Crucias, Titan of the Waves (Y23) 18
+4 Jarsyl, Dark Age Scion (Y23) 20
+2 Fable of the Mirror-Breaker (NEO) 141
+2 Seasoned Pyromancer (MH1) 145
+2 Sheoldred, the Apocalypse (DMU) 107
+4 Fatal Push (KLR) 84
+1 Sheoldred's Edict (ONE) 108
+4 Thoughtseize (AKR) 127
+3 Inquisition of Kozilek (STA) 31
+3 Molten Impact (Y22) 22
+2 Perilous Iteration (Y23) 21
+2 A-Minsc & Boo, Timeless Heroes (HBG) 243
+2 Blackcleave Cliffs (ONE) 248
+1 Mountain (MIR) 346
+1 Copperline Gorge (ONE) 249
+1 Cragcrown Pathway (ZNR) 261
+2 Stomping Ground (RNA) 259
+4 Overgrown Tomb (GRN) 253
+4 Blood Crypt (RNA) 245
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Boseiju, Who Endures (NEO) 266
+2 Blightstep Pathway (KHM) 252
+2 Ziatora's Proving Ground (SNC) 261
+2 Darkbore Pathway (KHM) 254
+1 Hive of the Eye Tyrant (AFR) 258
+
+Sideboard
+2 Tear Asunder (DMU) 183
+2 Unlicensed Hearse (SNC) 246
+1 Abrade (VOW) 139
+1 The Stone Brain (BRO) 247
+1 Scavenging Ooze (M21) 204
+1 Leyline of the Void (M20) 107
+1 Liliana of the Veil (DMU) 97
+1 Unlicensed Hearse (SNC) 246
+1 Chandra, Awakened Inferno (M20) 127
+1 Skysovereign, Consul Flagship (KLR) 272
+2 Brotherhood's End (BRO) 128
+1 A-Minsc & Boo, Timeless Heroes (HBG) 243

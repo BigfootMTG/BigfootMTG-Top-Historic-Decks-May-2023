@@ -1,0 +1,39 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Kinnan, Bonder Prodigy (IKO) 192
+4 Emry, Lurker of the Loch (ELD) 43
+4 Kethis, the Hidden Hand (M20) 211
+4 Rona, Herald of Invasion (MOM) 75
+2 Mox Amber (DAR) 224
+2 Mox Amber (BRR) 35
+4 Relic of Legends (DMU) 236
+4 Chromatic Star (BRR) 11
+3 Grisly Salvage (RTR) 165
+2 Fatal Push (KLR) 84
+4 Jace, the Perfected Mind (ONE) 57
+2 Otawara, Soaring City (NEO) 271
+2 Takenuma, Abandoned Mire (NEO) 278
+2 Boseiju, Who Endures (NEO) 266
+1 Watery Grave (GRN) 259
+2 Breeding Pool (RNA) 246
+3 Darkslick Shores (ONE) 250
+2 Mana Confluence (JOU) 163
+4 Plaza of Heroes (DMU) 252
+1 Temple Garden (GRN) 258
+2 Overgrown Tomb (GRN) 253
+2 Blooming Marsh (KLR) 280
+
+Sideboard
+1 Jegantha, the Wellspring (IKO) 222
+1 Lavinia, Azorius Renegade (RNA) 189
+3 Loran of the Third Path (BRO) 12
+1 The Stone Brain (BRO) 247
+1 Fatal Push (KLR) 84
+2 Lavinia, Azorius Renegade (RNA) 189
+1 Ertai Resurrected (DMU) 199
+2 Urza's Ruinous Blast (DAR) 39
+1 Fatal Push (KLR) 84
+1 The Scarab God (AKR) 259
+1 Viconia, Nightsinger's Disciple (HBG) 11

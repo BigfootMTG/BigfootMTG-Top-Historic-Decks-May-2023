@@ -1,0 +1,42 @@
+Companion
+1 Lurrus of the Dream-Den (IKO) 226
+
+Deck
+4 Sram, Senior Edificer (KLR) 32
+4 Kor Spiritdancer (JMP) 116
+4 Selfless Savior (M21) 36
+4 Light-Paws, Emperor's Voice (NEO) 25
+2 Skrelv, Defector Mite (ONE) 33
+3 Invisible Stalker (SIS) 17
+4 Sentinel's Eyes (THB) 36
+1 Combat Research (DMU) 44
+2 Staggering Insight (THB) 228
+1 Gryff's Boon (SIR) 31
+1 Curious Obsession (RIX) 35
+1 Kaya's Ghostform (WAR) 94
+1 Cartouche of Solidarity (AKR) 8
+1 Hammerhand (DMU) 129
+2 All That Glitters (ELD) 2
+4 Ethereal Armor (RTR) 9
+1 Warbriar Blessing (THB) 204
+4 Hengegate Pathway (KHM) 260
+1 Plains (MIR) 331
+2 Hallowed Fountain (RNA) 251
+4 Seachrome Coast (ONE) 258
+4 Forsaken Crossroads (Y22) 63
+3 Mana Confluence (JOU) 163
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+
+Sideboard
+1 Lurrus of the Dream-Den (IKO) 226
+2 Soul-Guide Lantern (THB) 237
+2 Hushbringer (ELD) 18
+2 Witness Protection (SNC) 66
+1 Hushbringer (ELD) 18
+1 Kaya's Ghostform (WAR) 94
+2 Witness Protection (SNC) 66
+1 Staggering Insight (THB) 228
+1 Rest in Peace (AKR) 33
+1 Invisible Stalker (SIS) 17
+1 Security Bypass (SNC) 59
